@@ -29,7 +29,7 @@ This keyboard is licensed under CERN-OHL-S-2.0, runs [QMK Firmware](https://qmk.
 | Supplies: Extra GPIO 1   | Required                | Analog/Digital     |
 | Supplies: Extra GPIO 2   | Required                | Analog/Digital     |
 
-![Image 1](Showcase/Image-1.jpg)
+![Image Backlight Top](Showcase/ImageLit-Top.jpg)
 ![Full Render Trackball Illuminated Front](Showcase/Full-Render-Trackball-Illuminated-F.png)
 ![Full Render Trackball Illuminated Back](Showcase/Full-Render-Trackball-Illuminated-B.png)
 ![Full Render Trackpad Front](Showcase/Full-Render-Trackpad-F.png)
