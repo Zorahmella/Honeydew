@@ -38,6 +38,8 @@ This keyboard is licensed under CERN-OHL-S-2.0, runs [QMK Firmware](https://qmk.
 ![Board Render Back](Showcase/Board-Render-B.png)
 
 ## Changelog
+* 15/04/2025: Changed bottom case to be easier to print and cheaper to CNC.
+* 20/03/2025: Changed product image.
 * 22/10/2024: License updated to CERN-OHL-S-2.0.
 * 29/09/2023: Added PCBWay sponsorship disclaimer to the readme. Updated library.
 * 27/09/2023: Added image. Small change to scrollwheel 3D file for smoother scrolling.
